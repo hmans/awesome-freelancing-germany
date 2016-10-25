@@ -6,20 +6,21 @@ _What follows is a list of useful links and resources for freelancers in the dig
 
 ### Zeit erfassen
 
-- [mite](https://mite.yo.lk/) - einfach gehalten, teamfähig, mit API, €5/User/Monat
+- [mite](https://mite.yo.lk/) - einfach gehalten, teamfähig, mit API, €5/User/Monat.
+- [TimeTac](https://www.timetac.com/) - viele Features.
 
 
 ### Rechnungen schreiben
 
-- [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking
+- [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking.
 
 
 ### Schreibtisch mieten, coworken, etc.
 
-- [coworking.de](https://www.coworking.de/) - Verzeichnis von Coworking-Spaces
+- [coworking.de](https://www.coworking.de/) - Verzeichnis von Coworking-Spaces.
 - [Dockbörse](http://www.dockboerse.de/) - Kleinanzeigen für Bürogemeinschaften, Coworking-Spaces etc.
-- [beehive.work](https://www.beehive.work/) - dynamisch buchbare Coworking-Spaces in Hamburg und Frankfurt
-- [places hamburg](http://www.places-hamburg.de/) - Coworking-Space in Hamburg
+- [beehive.work](https://www.beehive.work/) - dynamisch buchbare Coworking-Spaces in Hamburg und Frankfurt.
+- [places hamburg](http://www.places-hamburg.de/) - Coworking-Space in Hamburg.
 
 ### Andere gute Listen
 
