@@ -5,6 +5,7 @@ _NOTE: What follows is a list of useful links and resources for freelancers in t
 
 Du bist ein Freelancer oder willst einer werden? Hier findest du &ndash; ganz im Sinne der bekannten ["awesome"-Listen](https://awesome.re/) &ndash; Links zu nützlichen Sites und Ressourcen, die dich bei deiner Arbeit unterstützen oder auf den Start vorbereiten. Dieses Dokument ist deutschsprachig gehalten, da es sich auf Freelancer im deutschsprachigen Raum konzentriert, wo die Dinge oft anders laufen als im internationalen Umfeld.
 
+
 ### Zeit erfassen
 
 - [mite](https://mite.yo.lk/) - einfach gehalten, teamfähig, mit API, €5/User/Monat.
@@ -14,6 +15,11 @@ Du bist ein Freelancer oder willst einer werden? Hier findest du &ndash; ganz im
 ### Rechnungen schreiben
 
 - [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking.
+
+
+### Projekte/Aufträge managen
+
+- [Trello](https://trello.com/) - generisches Task-Management-Tool, das sich für so ziemlich jeden Anwendungsfall einsetzen lässt. Ihr könnt darüber z.B. eure Akquisebemühungen verwalten oder auch ganze Projekte.
 
 
 ### Schreibtisch mieten, coworken, etc.
