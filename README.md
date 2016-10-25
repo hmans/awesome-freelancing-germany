@@ -3,7 +3,7 @@ _What follows is a list of useful links and resources for freelancers in the dig
 
 # awesome-freelancing-germany
 
-Du bist ein Freelancer oder willst einer werden? Hier findest du -- ganz im Sinne der bekannten "awesome"-Listen -- Links zu nützlichen Sites und Ressourcen, die dich bei deiner Arbeit unterstützen oder auf den Start vorbereiten. Dieses Dokument ist deutschsprachig gehalten, da es sich auf Freelancer im deutschsprachigen Raum konzentriert, wo die Dinge oft anders laufen als im internationalen Umfeld.
+Du bist ein Freelancer oder willst einer werden? Hier findest du -- ganz im Sinne der bekannten ["awesome"-Listen](https://awesome.re/) -- Links zu nützlichen Sites und Ressourcen, die dich bei deiner Arbeit unterstützen oder auf den Start vorbereiten. Dieses Dokument ist deutschsprachig gehalten, da es sich auf Freelancer im deutschsprachigen Raum konzentriert, wo die Dinge oft anders laufen als im internationalen Umfeld.
 
 ### Zeit erfassen
 
