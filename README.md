@@ -17,6 +17,7 @@ _What follows is a list of useful links and resources for freelancers in the dig
 ### Schreibtisch mieten, coworken, etc.
 
 - [coworking.de](https://www.coworking.de/) - Verzeichnis von Coworking-Spaces
+- [Dockbörse](http://www.dockboerse.de/) - Kleinanzeigen für Bürogemeinschaften, Coworking-Spaces etc.
 - [beehive.work](https://www.beehive.work/) - dynamisch buchbare Coworking-Spaces in Hamburg und Frankfurt
 - [places hamburg](http://www.places-hamburg.de/) - Coworking-Space in Hamburg
 
