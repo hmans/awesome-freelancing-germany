@@ -4,9 +4,15 @@ _What follows is a list of useful links and resources for freelancers in the dig
 # awesome-freelancing-germany
 
 
-### Zeiterfassung
+### Zeit erfassen
 
 - [mite](https://mite.yo.lk/) - einfach gehalten, teamfähig, mit API, €5/User/Monat
+
+
+### Rechnungen schreiben
+
+- [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking
+
 
 ### Andere gute Listen
 
