@@ -14,6 +14,12 @@ _What follows is a list of useful links and resources for freelancers in the dig
 - [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking
 
 
+### Schreibtisch mieten, coworken, etc.
+
+- [coworking.de](https://www.coworking.de/) - Verzeichnis von Coworking-Spaces
+- [beehive.work](https://www.beehive.work/) - dynamisch buchbare Coworking-Spaces in Hamburg und Frankfurt
+- [places hamburg](http://www.places-hamburg.de/) - Coworking-Space in Hamburg
+
 ### Andere gute Listen
 
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - sehr gute international ausgerichtete Linkliste.
