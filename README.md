@@ -3,9 +3,9 @@ _NOTE: What follows is a list of useful links and resources for freelancers in t
 
 # awesome-freelancing-germany
 
-[![Join the chat at https://gitter.im/awesome-freelancing-germany/Lobby](https://badges.gitter.im/awesome-freelancing-germany/Lobby.svg)](https://gitter.im/awesome-freelancing-germany/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Du bist ein Freelancer oder willst einer werden? Hier findest du &ndash; ganz im Sinne der bekannten ["awesome"-Listen](https://awesome.re/) &ndash; Links zu nützlichen Sites und Ressourcen, die dich bei deiner Arbeit unterstützen oder auf den Start vorbereiten. Dieses Dokument ist deutschsprachig gehalten, da es sich auf Freelancer im deutschsprachigen Raum konzentriert, wo die Dinge oft anders laufen als im internationalen Umfeld.
+
+[![Join the chat at https://gitter.im/awesome-freelancing-germany/Lobby](https://badges.gitter.im/awesome-freelancing-germany/Lobby.svg)](https://gitter.im/awesome-freelancing-germany/Lobby)
 
 
 ### Zeit erfassen
