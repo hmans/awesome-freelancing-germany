@@ -7,6 +7,15 @@ Du bist ein Freelancer oder willst einer werden? Hier findest du &ndash; ganz im
 
 [![Join the chat at https://gitter.im/awesome-freelancing-germany/Lobby](https://badges.gitter.im/awesome-freelancing-germany/Lobby.svg)](https://gitter.im/awesome-freelancing-germany/Lobby)
 
+## Du willst neue Links beitragen?
+
+Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://help.github.com/articles/about-pull-requests/) und beachte dabei die folgenden Punkte:
+
+- Bitte füge neue Links ausschließlich an das Ende bestehender Listen an. (Neue Kategorien sind durchaus willkommen!)
+- Bitte nur Links zu Ressourcen, die du tatsächlich empfehlen kannst. Immerhin soll diese Liste _awesome_ bleiben!
+- Bitte verfasse eine aussagekräftige Beschreibung des Links. Sie sollte erklären, warum der neue Link _awesome_ ist.
+
+## Und hier die Links!
 
 ### Zeit erfassen
 
