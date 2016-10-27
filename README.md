@@ -31,7 +31,7 @@ Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://h
 ### Projekte/Aufträge managen
 
 - [Trello](https://trello.com/) - generisches Task-Management-Tool, das sich für so ziemlich jeden Anwendungsfall einsetzen lässt. Ihr könnt darüber z.B. eure Akquisebemühungen verwalten oder auch ganze Projekte.
-
+- [Basecamp](https://basecamp.com/) - der Projekt-Kollaborations-Klassiker aus Web 2.0-Tagen. Englischsprachig, aber sehr beliebt dank hoher Nutzerfreundlichkeit.
 
 ### Schreibtisch mieten, coworken, etc.
 
