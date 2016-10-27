@@ -33,4 +33,6 @@ Du bist ein Freelancer oder willst einer werden? Hier findest du &ndash; ganz im
 
 ### Andere gute Listen
 
+Es gibt natürlich noch weitaus mehr Listen wie diese hier, die sich aber in der Regel an Freelancer in englischsprachigen oder internationalen Märkten richten. Wenn ihr über die Grenzen des deutschsprachigen Raums hinaus arbeitet, sind sie auf jeden Fall einen Blick wert.
+
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - sehr gute international ausgerichtete Linkliste.
